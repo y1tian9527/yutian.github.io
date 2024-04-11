@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am  a postdoctoral researcher in the Department of Civil and Environmental Engineering at [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am glad to be advised by [Prof. YIN Zhen-Yu](https://zhenyuyin.wixsite.com/polyu) and hosted on GitHub pages. Before my service at PolyU, I was awarded a Ph.D degree in Civil Engineering from the City University of Hong Kong (CityU) in 2022. My Ph.D. study was supervised by [Dr.Kostas SENETAKIS](http://senetakis.weebly.com/). Prior to my Ph.D study, I obtained an M.sc degree from Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/) in 2018 and a bachelor's degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2017, respectively.
 
-You may find my [C.V.](assets/cv_english.pdf)
+You may find my [C.V.](../assets/cv_english.pdf)
 
 A data-driven personal website
 ======
