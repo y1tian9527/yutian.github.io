@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
   employer         : "Hong Kong Polytechnic University"
-  uri              : # URL
+  URI              : "https://www.polyu.edu.hk/en/"
   email            : "y1tian@polyu.edu.hk" 
 
   # Academic websites
