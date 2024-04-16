@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tianyu.png"
   name             : "Useful links"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
-  employer         : "Hong Kong Polytechnic University"
+  employer         : ["Hong Kong Polytechnic University"](https://www.polyu.edu.hk/)
   uri              : # URL
   email            : "y1tian@polyu.edu.hk" 
 
