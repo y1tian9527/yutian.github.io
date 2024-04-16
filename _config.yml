@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "tianyu.png"
-  name             : "Useful links"
+  name             : " Portrait/简介"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
   employer         : "Hong Kong Polytechnic University"
   URI              : "https://www.polyu.edu.hk/en/"
